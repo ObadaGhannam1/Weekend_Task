@@ -12,7 +12,8 @@ Containers make it easier to build and deliver apps in cloud and hybrid environm
 
 Docker streamlines the development lifecycle by allowing developers to work in standardized environments using local containers which provide your applications and services. Containers are great for continuous integration and continuous delivery (CI/CD) workflows.
 
-image description here](https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ywjqppks5ffcnbfjuttq)
+![Docker Logo](https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ywjqppks5ffcnbfjuttq "Docker")
+
 ## What Problem Does Docker Solve ?!
 Docker solves the problem of inconsistent development and deployment environments in web development.
 
