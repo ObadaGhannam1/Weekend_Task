@@ -1,0 +1,20 @@
+To download docker on your pc , please follow this guide to download it by simplilearn :Step-By-Step Docker Installation on Windows
+
+1. Go to the website https://docs.docker.com/docker-for-windows/install/ and download the docker file.
+
+Note: A 64-bit processor and 4GB system RAM are the hardware prerequisites required to successfully run Docker on Windows 10.
+
+2. Then, double-click on the Docker Desktop Installer.exe to run the installer.
+
+Note: Suppose the installer (Docker Desktop Installer.exe) is not downloaded; you can get it from Docker Hub and run it whenever required.
+
+3. Once you start the installation process, always enable Hyper-V Windows Feature on the Configuration page.
+
+4. Then, follow the installation process to allow the installer and wait till the process is done.
+
+5. After completion of the installation process, click Close and restart. 
+
+ For mac, follow this guide provided by appsdeveloperblog : 1-Go to the Docker website: https://www.docker.com/products/docker-desktop
+2-Click the “Download for Mac” button to download the latest version of Docker Desktop for Mac.
+3-Once the download is complete, double-click the Docker.dmg file to open the installer.4-Drag the Docker icon to the Applications folder to install Docker Desktop.
+5-Open Docker Desktop from the Applications folder. 

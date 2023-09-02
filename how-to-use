@@ -12,3 +12,4 @@ Step 4: Launch the Containers
 
 To run your containerized program, use this command. It runs the container in the background (-d) and assigns an exposed port (-p).
 
+The Docker workflow involves several steps: coding and creating your app, using a Dockerfile to turn it into a container image, generating that image, and running it to create and start containers. This explanation outlines the fundamental Docker workflow.
