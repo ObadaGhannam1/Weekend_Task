@@ -2,7 +2,7 @@
 Doing The Weekend Assignment SOLO . 
 # Welcome to My - Repository
 
-Hey there , in this repo we'll explain some basic information about the Docker technology , a technology which has impacted the world web development 
+Hey there , in this repo we'll explain some basic information about the Docker technology , a technology which has impacted the of world web development 
 
 #  What Is Docker ?
 
